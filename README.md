@@ -3,9 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Laravel, JS, JQ, HTML, CSS, Bootstrap, MySQL</b>
-  - [Website : lmohami.com](https://github.com/mazraouiimoad/lmohami)
+  - [Website : lmohami.com](https://lmohami.com)
+- <b>Laravel, JS, JQ, HTML, CSS, Bootstrap, MySQL</b>
+  - [Website : museedelamusique.ma](https://museedelamusique.ma)
 - <b>Spring boot, Angular JS, Bootstrap, MySQ</b>
-  - [Website : exemple](https://github.com/mazraouiimoad/exemple)
+  - [Website : graduation project final report](https://github.com/mazraouiimoad/pfe)
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -16,5 +16,5 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/MazraouiM
-[instagram]: https://www.instagram.com/mazraouimoad
+[instagram]: https://www.instagram.com/mazraoui_moad
 [linkedin]: https://www.linkedin.com/in/moad-mazraoui-26a90b196

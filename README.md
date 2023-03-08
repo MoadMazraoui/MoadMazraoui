@@ -7,7 +7,7 @@
 - <b>Laravel, JS, JQ, HTML, CSS, Bootstrap, MySQL</b>
   - [Website : museedelamusique.ma](https://museedelamusique.ma)
 - <b>Spring boot, Angular JS, Bootstrap, MySQ</b>
-  - [Website : moroccan-tootball-talents.com](moroccan-tootball-talents.com)
+  - [Website : moroccan-tootball-talents.com](moroccan-tootball-talents.ma)
 
 <h2> 🤳 Connect with me:</h2>
 

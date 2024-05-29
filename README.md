@@ -17,7 +17,7 @@
 
 
 
-  
+## 📱 Others:  
 - **Laravel, JS, JQ, HTML, CSS, Bootstrap, MySQL**
   - [Website: lmohami.com](https://lmohami.com)
 - **Laravel, JS, JQ, HTML, CSS, Bootstrap, MySQL**
@@ -44,10 +44,6 @@
 - **Version Control:** Git, GitHub
 - **Software:** Visual Studio, Photoshop, Illustrator
 - **Other Skills:** Game Design, 3D Modeling, Animation, Physics Simulation, Problem Solving, Team Collaboration
-
-## 🏅 Certifications:
-
-- Unity Certified Developer (Udemy Course: Complete C# Unity Game Developer 3D by GameDev.tv) and more ..
 
 ## 🌐 Languages:
 
